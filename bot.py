@@ -183,4 +183,4 @@ async def boost(ctx, invite: discord.Option(str, "Invite link to the server you 
 clear()
 keep_alive()
 fingerprint_modification()
-bot.run(config['bot_token'])
+bot.run(config['MTQzNjY5ODM3MTU2OTIyNTg0OA.GDOEQD.02k6k84eJwqUti0BQkl8IAM0vkn6eoJRmD-11w'])
